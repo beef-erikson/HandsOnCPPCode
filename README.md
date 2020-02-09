@@ -1,6 +1,6 @@
 # Hands On C++
 Code from the book Hands On C++
-#![Cover](https://i.imgur.com/7SN9gl0.png)
+#![Cover](https://pasteboard.co/ITWIjlV.png)
 
 ## Introduction
 ![First Project](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Introduction/FirstProject/FirstProject/Source.cpp)
