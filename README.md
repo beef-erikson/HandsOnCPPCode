@@ -1,7 +1,7 @@
 # Hands On C++
 Code from the book Hands On C++
 
-![Cover](https://snipboard.io/hSJdp2.jpg)
+![Cover](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/cover.png)
 
 ## Introduction
 ![First Project](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Introduction/FirstProject/FirstProject/Source.cpp)
