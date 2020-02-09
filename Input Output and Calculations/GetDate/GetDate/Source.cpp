@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int day, month, year;
-	cout << "Enter day, month, and year (dd mm yyyy): ";
-	scanf_s("%d %d %d", &day, &month, &year);
-	cout << "The date is: " << day << '/' << month << '/' << year << endl;
+	cout << "Enter month, day, and year (mm dd yyyy): ";
+	scanf_s("%d %d %d", &month, &day, &year);
+	cout << "The date is: " << month << '/' << day << '/' << year << endl;
 }
