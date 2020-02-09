@@ -1,5 +1,5 @@
 # Hands On C++
-Code from the book Hands On C++ (unreleased book but will be here when ready - http://www.digital-skills.co.uk/cpp.html
+Code from the book Hands On C++ (unreleased book but will be here when ready - http://www.digital-skills.co.uk/cpp.html)
 
 ## Introduction
 ![First Project](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Introduction/FirstProject/FirstProject/Source.cpp)
