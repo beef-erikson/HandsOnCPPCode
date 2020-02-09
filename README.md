@@ -7,4 +7,4 @@ Code from the book Hands On C++
 ## Input, Output, & Calculations
 ![Getting and Outputting Weight](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/Input01/Input01/Source.cpp)  
 ![Using scanf_s](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/Input02/Input02/Source.cpp)  
-![GetDate](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/GetDate/GetDate/Source.cpp)  
+![Get Date Example Using scanf_s](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/GetDate/GetDate/Source.cpp)  
