@@ -1,5 +1,6 @@
 # Hands On C++
-Code from the book Hands On C++  
+Code from the book Hands On C++
+
 ![Cover](https://snipboard.io/hSJdp2.jpg)
 
 ## Introduction
