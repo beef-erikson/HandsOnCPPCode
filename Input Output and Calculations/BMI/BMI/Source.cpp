@@ -13,4 +13,5 @@ int main()
 	cin >> height;
 	
 	cout << endl << "Your BMI is: " << weight * 705 / height / height << endl;
+	cout << "A BMI over 25 is considered overweight." << endl;
 }
