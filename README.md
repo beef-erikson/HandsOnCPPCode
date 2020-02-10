@@ -13,3 +13,4 @@ Code from the book Hands On C++
 ![Get Date Example Using scanf_s - Version 2](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/GetDate2/GetDate2/Source.cpp)   
 ![BMI Calculator](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/BMI/BMI/Source.cpp)  
 ![Format Manipulation](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/FormatManipulators/main.cpp)  
+![Integer to Decimal and Hexidecimal](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/DecHex/main.cpp)  
