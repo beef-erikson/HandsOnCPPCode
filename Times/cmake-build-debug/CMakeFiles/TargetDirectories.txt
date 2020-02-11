@@ -1,3 +1,0 @@
-C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Times/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Times/cmake-build-debug/CMakeFiles/Times.dir
-C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Times/cmake-build-debug/CMakeFiles/edit_cache.dir
