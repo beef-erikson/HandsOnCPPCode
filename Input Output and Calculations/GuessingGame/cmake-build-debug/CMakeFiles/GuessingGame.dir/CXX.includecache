@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Input Output and Calculations/GuessingGame/main.cpp
+iostream
+-
+cstdlib
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Input Output and Calculations/GuessingGame/cstdlib
+ctime
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Input Output and Calculations/GuessingGame/ctime
+
