@@ -15,3 +15,4 @@ Code from the book Hands On C++
 ![Format Manipulation](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/FormatManipulators/main.cpp)  
 ![Integer to Decimal and Hexidecimal](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/DecHex/main.cpp)  
 ![Adding Two Times by Hours, Minutes, and Seconds](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/Times/main.cpp)  
+![Using Pre-incrementing Operation on a Char](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/CharBefore/main.cpp)  

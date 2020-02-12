@@ -9,7 +9,7 @@ int main() {
     int seconds1{}, seconds2{};
     int totalHours{}, totalMinutes{}, totalSeconds{};
 
-    cout << "Enter the first time (hh mm ss): ";
+    cout << endl << "Enter the first time (hh mm ss): ";
     cin >> hours1 >> minutes1 >> seconds1;
     cout << "Enter the second time (hh mm ss): ";
     cin >> hours2 >> minutes2 >> seconds2;
