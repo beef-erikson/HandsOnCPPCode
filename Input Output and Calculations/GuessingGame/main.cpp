@@ -14,7 +14,12 @@ int main() {
     cout << "Guess the number (1 - 10): ";
     cin >> guess;
     cout << "The number was " << number << endl;
-    cout << "Your guess was " << guess << endl;
+    if (guess < number)
+        cout << "Your guess was too low with " << guess << "." << endl;
+    else if (guess > number)
+        cout << "Your guess was too high with " << guess << "." << endl;
+    else
+        cout << "You guessed correctly with " << guess << "!" << endl;
 
     return 0;
 }
