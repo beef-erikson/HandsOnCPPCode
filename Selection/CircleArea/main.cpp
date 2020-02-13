@@ -13,6 +13,6 @@ int main() {
         cout << "The area of a circle whose radius is " << radius << " is "
             << area << endl;
     }
-       
+
     return 0;
 }
