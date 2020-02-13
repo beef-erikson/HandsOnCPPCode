@@ -26,3 +26,4 @@ Code from the book Hands On C++
 [Number is 9 or 14](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Check02/main.cpp)  
 [Equality Test for Two Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/EqualityTest/main.cpp)  
 [Categorises Inputted Integer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Categorise/main.cpp)  
+[Interest Calculations on Bank Account Balance](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/BankInterest/main.cpp)  
