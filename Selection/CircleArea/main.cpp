@@ -2,6 +2,7 @@
 #include "cmath"
 using namespace std;
 
+// Finds the radius of a circle based on inputted radius
 int main() {
     double radius{}, area{};
 
@@ -12,6 +13,10 @@ int main() {
         area = M_PI * radius * radius;
         cout << "The area of a circle whose radius is " << radius << " is "
             << area << endl;
+    }
+    else
+    {
+        cout << "Invalid radius. Negative number entered.";
     }
 
     return 0;
