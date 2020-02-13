@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Selection/CircleArea/main.cpp
+iostream
+-
+cmath
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Selection/CircleArea/cmath
+

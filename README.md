@@ -21,3 +21,4 @@ Code from the book Hands On C++
 
 ## Selection
 [Display Wheter Number Entered is Negative](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Negative/main.cpp)  
+[Find Area of Circle Given Radius](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/CircleArea/main.cpp)  

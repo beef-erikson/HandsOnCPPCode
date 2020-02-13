@@ -1,0 +1,4 @@
+"C:\Users\Beef Erikson Studios\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\Selection\CircleArea"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Selection/CircleArea/cmake-build-debug
