@@ -25,3 +25,4 @@ Code from the book Hands On C++
 [Number Between 1 and 12](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Check01/main.cpp)  
 [Number is 9 or 14](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Check02/main.cpp)  
 [Equality Test for Two Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/EqualityTest/main.cpp)  
+[Categorises Inputted Integer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Categorise/main.cpp)  
