@@ -14,7 +14,7 @@ int main() {
     scanf("%d/%d/%d", &month, &day, &year);
 
     // Calculations for formula
-    M = (month - 9) % 12 + 1;
+    M = (month + 9) % 12 + 1;
     modifiedYear = year - M / 11;
     C = modifiedYear / 100;
     Y = modifiedYear % 100;
@@ -26,25 +26,25 @@ int main() {
     cout << "This date fell on a ";
     switch (dayOfWeek) {
         case 0:
-            cout << "Saturday\n";
-            break;
-        case 1:
             cout << "Sunday\n";
             break;
-        case 2:
+        case 1:
             cout << "Monday\n";
             break;
-        case 3:
+        case 2:
             cout << "Tuesday\n";
             break;
-        case 4:
+        case 3:
             cout << "Wednesday\n";
             break;
-        case 5:
+        case 4:
             cout << "Thursday\n";
             break;
-        case 6:
+        case 5:
             cout << "Friday\n";
+            break;
+        case 6:
+            cout << "Saturday\n";
             break;
         default:
             cout << "Error, you should not have hit this.\n";
