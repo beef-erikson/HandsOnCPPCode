@@ -17,7 +17,7 @@ Code from the book Hands On C++
 [Adding Two Times by Hours, Minutes, and Seconds](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/Times/main.cpp)  
 [Using Pre-incrementing Operation on a Char](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/CharBefore/main.cpp)  
 [Number Guessing Game](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/GuessingGame/main.cpp)  
-[Day of Week Calculation - Version 1](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/DayOfWeek/main.cpp)  
+[Day of Week Calculation](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Input%20Output%20and%20Calculations/DayOfWeek/main.cpp)  
 
 ## Selection
 [Display Wheter Number Entered is Negative](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Negative/main.cpp)  
