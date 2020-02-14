@@ -22,7 +22,34 @@ int main() {
     // Calculates day of week and displays it
     dayOfWeek = ((static_cast<int>(2.6 * M - 0.2) + day + Y + Y / 4 + C / 4
                   - 2 * C) % 7 + 7) % 7;
-    printf("%d/%d/%d fell on a %d.\n", month, day, year, dayOfWeek);
+
+    cout << "This date fell on a ";
+    switch (dayOfWeek) {
+        case 0:
+            cout << "Saturday\n";
+            break;
+        case 1:
+            cout << "Sunday\n";
+            break;
+        case 2:
+            cout << "Monday\n";
+            break;
+        case 3:
+            cout << "Tuesday\n";
+            break;
+        case 4:
+            cout << "Wednesday\n";
+            break;
+        case 5:
+            cout << "Thursday\n";
+            break;
+        case 6:
+            cout << "Friday\n";
+            break;
+        default:
+            cout << "Error, you should not have hit this.\n";
+            cout << "Invalid value is: " << dayOfWeek << endl;
+    }
 
     return 0;
 }
