@@ -10,7 +10,7 @@ int main() {
     int dayOfWeek;                      // day of the week on which date falls
 
     // Gets date
-    cout << "Enter date in the format mm/dd/yyyy: ";
+    cout << endl << "Enter date in the format mm/dd/yyyy: ";
     scanf("%d/%d/%d", &month, &day, &year);
 
     // Calculations for formula
