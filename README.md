@@ -32,4 +32,4 @@ Code from the book Hands On C++
 
 ## Iteration
 [While Loop to Handle Incorrect Inputs](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/TestWhile/main.cpp)  
-[Do/While Loop Stopped on Number Zero](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/DoLoop/main.cpp)  
+[Do/While Loop Stopping on Number Zero](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/DoLoop/main.cpp)  
