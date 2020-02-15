@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int grade{};
     int totalExamsGrade{};
-    const int NO_OF_EXAMS = 6;      // Change this for number of exams taken
+    const int NO_OF_EXAMS = 3;      // Change this for number of exams taken
 
     for (int counter = 1; counter <= NO_OF_EXAMS; counter++) {
         cout << "Enter exam grade: ";
