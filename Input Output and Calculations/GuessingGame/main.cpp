@@ -13,7 +13,7 @@ int main() {
     number = rand() % 10 + 1;
 
     // Gets user's guess and display answer
-    do {
+    for (int i = 0; i < 5; i++) {
         cout << "Guess the number (1 - 10): ";
         cin >> guess;
 
@@ -27,11 +27,15 @@ int main() {
             numberOfGuesses++;
             cout << "Your guess was too high with " << guess << "." << endl;
         }
-        else
+        else {
             cout << "\nYou guessed correctly with " << guess << "!" << endl;
-    } while (guess != number);
-
-    cout << "Congrats! It took you " << numberOfGuesses << " guesses!\n";
-
+            break;
+        }
+    }
+    if (numberOfGuesses < 5)
+        cout << "Congrats! It took you " << ++numberOfGuesses <<
+             " guesses!\n";
+    else
+        cout << "You did not guess the number in 5 chances.";
     return 0;
 }
