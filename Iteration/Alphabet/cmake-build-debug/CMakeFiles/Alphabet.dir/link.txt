@@ -1,0 +1,3 @@
+"C:\Users\Beef Erikson Studios\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Alphabet.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Alphabet.dir/objects.a @CMakeFiles\Alphabet.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Alphabet.dir/objects.a -Wl,--no-whole-archive  -o Alphabet.exe -Wl,--out-implib,libAlphabet.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Alphabet.dir\linklibs.rsp
