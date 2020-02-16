@@ -39,3 +39,4 @@ Code from the book Hands On C++
 [Counting Average Numbers Using For Loop and 0 Terminator](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/ForLoop/main.cpp)  
 [Counts From 1 to User-inputted Number](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/OneTo/main.cpp)  
 [Adds Entered Values Until 5th Number or Zero is Entered](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Total/main.cpp)  
+[Finds Smallest and Largest Number From 8 Inputted Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Extreme/main.cpp)  
