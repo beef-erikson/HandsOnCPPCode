@@ -40,3 +40,4 @@ Code from the book Hands On C++
 [Counts From 1 to User-inputted Number](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/OneTo/main.cpp)  
 [Adds Entered Values Until 5th Number or Zero is Entered](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Total/main.cpp)  
 [Finds Smallest and Largest Number From 8 Inputted Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Extreme/main.cpp)  
+[Finds Average Based on Variable Judges Scores](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/IceScore/main.cpp)  
