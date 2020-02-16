@@ -38,3 +38,4 @@ Code from the book Hands On C++
 [Using For Loop to Iterate Through Alphabet Using Char](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Alphabet/main.cpp)  
 [Counting Average Numbers Using For Loop and 0 Terminator](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/ForLoop/main.cpp)  
 [Counts From 1 to User-inputted Number](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/OneTo/main.cpp)  
+[Adds Entered Values Until 5th Number or Zero is Entered](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Total/main.cpp)  
