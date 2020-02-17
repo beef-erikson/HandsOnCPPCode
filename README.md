@@ -42,3 +42,5 @@ Code from the book Hands On C++
 [Finds Smallest and Largest Number From 8 Inputted Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Extreme/main.cpp)  
 [Finds Average Based on Variable Judges Scores](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/IceScore/main.cpp)  
 [Counts to 99 With Nested For Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Counting01/main.cpp)  
+[Exam Grades Version 2 - Now With Nested Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/ExamGrades/main.cpp)  
+
