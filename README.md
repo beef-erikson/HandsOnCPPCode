@@ -29,8 +29,6 @@ Code from the book Hands On C++
 [Interest Calculations on Bank Account Balance](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/BankInterest/main.cpp)  
 [Demonstration of Nested If Statements Using Age](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/Ages/main.cpp)  
 [Demonstrates Variable Declaration Inside Switch Statement](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Selection/TestSwitch/main.cpp)  
-[Counting 0 to 5 Using Loops and break Statement](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Counting02/main.cpp)  
-
 
 ## Iteration
 [While Loop to Handle Incorrect Inputs](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/TestWhile/main.cpp)  
@@ -45,4 +43,4 @@ Code from the book Hands On C++
 [Finds Average Based on Variable Judges Scores](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/IceScore/main.cpp)  
 [Counts to 99 With Nested For Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Counting01/main.cpp)  
 [Exam Grades Version 2 - Now With Nested Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/ExamGrades/main.cpp)  
-
+[Counting 0 to 5 Using Loops and break Statement](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Counting02/main.cpp)  
