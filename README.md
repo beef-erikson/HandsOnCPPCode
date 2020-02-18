@@ -44,3 +44,6 @@ Code from the book Hands On C++
 [Counts to 99 With Nested For Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Counting01/main.cpp)  
 [Exam Grades Version 2 - Now With Nested Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/ExamGrades/main.cpp)  
 [Counting 0 to 5 Using Loops and break Statement](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Iteration/Counting02/main.cpp)  
+
+## Arrays
+[Reads in and Prints 5 Numbers in Array Using Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays01/main.cpp)  
