@@ -47,3 +47,4 @@ Code from the book Hands On C++
 
 ## Arrays
 [Reads in and Prints 5 Numbers in Array Using Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays01/main.cpp)  
+[Prints Contents of Array Using sizeof](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays02/main.cpp)  
