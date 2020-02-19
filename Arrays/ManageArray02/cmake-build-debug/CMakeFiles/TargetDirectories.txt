@@ -1,0 +1,3 @@
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/ManageArray02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/ManageArray02/cmake-build-debug/CMakeFiles/ManageArray02.dir
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/ManageArray02/cmake-build-debug/CMakeFiles/edit_cache.dir
