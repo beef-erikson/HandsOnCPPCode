@@ -49,7 +49,7 @@ Code from the book Hands On C++
 [Reads in and Prints 5 Numbers in Array Using Loops](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays01/main.cpp)  
 [Prints Contents of Array Using sizeof](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays02/main.cpp)  
 [Prints Contents of Array Using size (Much Easier)](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays03/main.cpp)  
-[Adds Random Numbers to an Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ArraysRandom/main.cpp)  
+[Adds Random Numbers to an Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ArrayRandom/main.cpp)  
 [Tests Dice Rolls for Fair "Random Throws"](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/DieTest/main.cpp)  
 [Pick Unique Lottery Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Lottery/main.cpp)  
 
