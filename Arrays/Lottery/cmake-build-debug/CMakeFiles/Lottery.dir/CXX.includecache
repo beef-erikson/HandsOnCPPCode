@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/Lottery/main.cpp
+iostream
+-
+ctime
+-
+algorithm
+-
+
