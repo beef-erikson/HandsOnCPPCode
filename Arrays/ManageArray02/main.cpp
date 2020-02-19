@@ -36,8 +36,7 @@ int main() {
                 while (list[post] != -99)
                     post++;
                 // If array is not full, adds value to sentinel slot and moves sentinel
-                if (list[SIZE] != -99)
-                {
+                if (list[SIZE] != -99) {
                     list[post] = value;
                     list[++post] = -99;
                 }
@@ -45,22 +44,24 @@ int main() {
                     cout << "List is full\n\n\n";
                 break;
             case 2:
-                for (int i{0}; i < )
-                {
-                    if (v == -99) {
-                        cout << list[v-1] << endl;
-                    }
-                    cout << v << endl;
+                for (int i{0}; i <= SIZE; i++) {
+                    if (list[i] == -99)
+                        count = i;
                 }
                 cout << "List contains " << count << " entries\n\n\n";
                 break;
             case 3:
-                if (list[0] == 99)
+                if (list[0] == -99)
                     cout << "The list is empty\n\n";
                 else {
                     cout << "Values held are\n";
-                    for (int i{1}; i <= list[0]; i++)
-                        cout << list[i] << " ";
+                    for (int i : list)
+                    {
+                        if (i == -99)
+                            break;
+                        else
+                            cout << i << " ";
+                    }
                     cout << "\n\n\n";
                 }
                 break;
