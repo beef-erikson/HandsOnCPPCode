@@ -54,4 +54,4 @@ Code from the book Hands On C++
 [Pick Unique Lottery Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Lottery/main.cpp)  
 [Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Shuffle/main.cpp)  
 [Sort Through Array Lengths Using the 0'th Value To Count][Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray/main.cpp)  
-
+[Sort Through Array Lengths Using a Sentinel Value][Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray02/main.cpp)  
