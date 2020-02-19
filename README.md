@@ -52,4 +52,4 @@ Code from the book Hands On C++
 [Adds Random Numbers to an Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ArrayRandom/main.cpp)  
 [Tests Dice Rolls for Fair "Random Throws"](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/DieTest/main.cpp)  
 [Pick Unique Lottery Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Lottery/main.cpp)  
-
+[Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Shuffle/main.cpp)  
