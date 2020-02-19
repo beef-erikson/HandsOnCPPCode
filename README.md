@@ -53,5 +53,5 @@ Code from the book Hands On C++
 [Tests Dice Rolls for Fair "Random Throws"](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/DieTest/main.cpp)  
 [Pick Unique Lottery Numbers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Lottery/main.cpp)  
 [Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Shuffle/main.cpp)  
-[Sort Through Array Lengths Using the 0'th Value To Count][Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray/main.cpp)  
-[Sort Through Array Lengths Using a Sentinel Value][Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray02/main.cpp)  
+[Sort Through Array Lengths Using the 0'th Value To Count](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray/main.cpp)  
+[Sort Through Array Lengths Using a Sentinel Value](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray02/main.cpp)  
