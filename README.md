@@ -56,3 +56,4 @@ Code from the book Hands On C++
 [Sort Through Array Lengths Using the 0'th Value To Count](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray/main.cpp)  
 [Sort Through Array Lengths Using a Sentinel Value](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray02/main.cpp)  
 [Insert Values at Specific Element Number in Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArrays03/main.cpp)  
+[Delete Values by Actual Number and by Index](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArrays04/main.cpp)  
