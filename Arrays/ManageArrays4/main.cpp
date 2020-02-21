@@ -105,10 +105,12 @@ int main() {
             case 5:
                 cout << "Enter value to be deleted: ";
                 cin >> value;
+
                 // Search for value
                 post = 1;
                 while (post <= list[0] && list[post] != value)
                     post++;
+
                 // Value found, shift other values to the left to delete
                 if (list[post] == value) {
                     for (int current = post + 1; current <= list[0] + 1; current++) {
@@ -117,6 +119,7 @@ int main() {
                     }
                     list[0]--;
                 }
+                
                 // Print entries
                 if (list[0] == 0)
                     cout << "The list is empty \n\n";
