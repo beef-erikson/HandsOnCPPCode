@@ -5,7 +5,7 @@ using namespace std;
 
 // Inserts value into array wherever the user wants it to be
 int main() {
-    const int SIZE{5};
+    const int SIZE{5};              // Array size, change as needed
     int list[SIZE + 1]{0};
     int value;
     int option;
@@ -119,7 +119,7 @@ int main() {
                     }
                     list[0]--;
                 }
-                
+
                 // Print entries
                 if (list[0] == 0)
                     cout << "The list is empty \n\n";
