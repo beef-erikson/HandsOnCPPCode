@@ -55,4 +55,4 @@ Code from the book Hands On C++
 [Shuffles Deck of Cards](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Shuffle/main.cpp)  
 [Sort Through Array Lengths Using the 0'th Value To Count](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray/main.cpp)  
 [Sort Through Array Lengths Using a Sentinel Value](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray02/main.cpp)  
-[Insert Values at Specific Element Number in Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArray03/main.cpp)  
+[Insert Values at Specific Element Number in Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArrays03/main.cpp)  
