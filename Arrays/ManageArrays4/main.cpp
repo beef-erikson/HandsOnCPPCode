@@ -103,7 +103,31 @@ int main() {
 
                 // Deletes specified value in array
             case 5:
-                cout << "not implemented yet";
+                cout << "Enter value to be deleted: ";
+                cin >> value;
+                // Search for value
+                post = 1;
+                while (post <= list[0] && list[post] != value)
+                    post++;
+                // Value found, shift other values to the left to delete
+                if (list[post] == value) {
+                    for (int current = post + 1; current <= list[0] + 1; current++) {
+                        list[current - 1] = list[current];
+                        list[current] = 0;
+                    }
+                    list[0]--;
+                }
+                // Print entries
+                if (list[0] == 0)
+                    cout << "The list is empty \n\n";
+                else {
+                    cout << setfill('=') << setw(20) << "" << endl;
+                    cout << "Values held are now\n";
+                    for (int v : list)
+                        cout << v << " ";
+                    cout << endl << setfill('=') << setw(20) << "" << endl;
+                    cout << "\n\n";
+                }
                 break;
 
                 // Terminate program
