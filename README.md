@@ -59,3 +59,4 @@ Code from the book Hands On C++
 [Delete Values by Actual Number and by Index](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/ManageArrays4/main.cpp)  
 [Verifies if a Date is Correct](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Validate/main.cpp)  
 [Example of Using gets() to Handle String Input](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Strings/main.cpp)  
+[Student Exams Using 2D Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Exams01/main.cpp)  
