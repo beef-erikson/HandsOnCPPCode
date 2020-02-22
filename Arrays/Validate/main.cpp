@@ -26,8 +26,8 @@ int main() {
     }
 
     // Checks day
-    while ((day < 1 && day > daysInMonth[month]) || day > 28) {
-        if (day > 28) {
+    while ((day < 1 || day > daysInMonth[month])) {
+        if (day > 28 && month == 2) {
             if (day == 28 + ((year % 4 == 0 && year % 100 != 0) ||
                                         (year % 400 == 0)))
                 break;
@@ -36,6 +36,8 @@ int main() {
                 return 0;
             }
         }
+        cout << "\nInvalid date";
+        return 0;
     }
 
     printf("\nValid date of %d/%d/%d entered.\n", month, day, year);
