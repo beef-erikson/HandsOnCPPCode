@@ -1,0 +1,3 @@
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/Strings/cmake-build-debug/CMakeFiles/Strings.dir
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/Arrays/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
