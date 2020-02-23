@@ -50,7 +50,7 @@ int main() {
                 cout << v << " ";
                 grades += v;
             }
-            cout << ", with an average grade of: "
+            cout << " with an average grade of: "
                  << grades / 3 << endl;
         }
         cout << endl;
