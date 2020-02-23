@@ -60,3 +60,4 @@ Code from the book Hands On C++
 [Verifies if a Date is Correct](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Validate/main.cpp)  
 [Example of Using gets() to Handle String Input](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Strings/main.cpp)  
 [Student Exams Using 2D Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Exams01/main.cpp)  
+[Various 'Number Cubes' Using 2D Arrays](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays2D/main.cpp)  
