@@ -14,11 +14,11 @@ int main() {
         for (int exam{0}; exam < 6; exam++)
             exams[student][exam] = rand() % 101;
 
-    // Displays exams
+    // Displays exams using range-based for loop
     for (student = 0; student < 5; student++) {
         cout << "Student " << student + 1 << " test results: ";
-        for (int exam{0}; exam < 6; exam++)
-            cout << exams[student][exam] << " ";
+        for (int v : exams[student])
+            cout << v << " ";
         cout << endl;
     }
 
