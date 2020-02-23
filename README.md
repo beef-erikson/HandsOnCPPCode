@@ -61,3 +61,4 @@ Code from the book Hands On C++
 [Example of Using gets() to Handle String Input](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Strings/main.cpp)  
 [Student Exams Using 2D Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Exams01/main.cpp)  
 [Various 'Number Cubes' Using 2D Arrays](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays2D/main.cpp)  
+[Day of Week Version 2 - Days of Week in Array Form](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/DayOfWeekV2/main.cpp)  
