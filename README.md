@@ -66,3 +66,4 @@ Code from the book Hands On C++
 
 ## Other Data Types
 [Struct Example ContactType](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/ContactType/main.cpp)  
+[Struct Example Using Students With Their Info](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Records/main.cpp)  

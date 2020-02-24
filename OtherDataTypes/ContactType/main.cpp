@@ -13,6 +13,6 @@ int main() {
     };
 
     ContactType c1{}, c2{}, c3{};
-    
+
     return 0;
 }
