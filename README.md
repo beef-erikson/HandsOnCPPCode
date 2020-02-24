@@ -63,3 +63,6 @@ Code from the book Hands On C++
 [Various 'Number Cubes' Using 2D Arrays](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Arrays2D/main.cpp)  
 [Day of Week Version 2 - Days of Week in Array Form](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/DayOfWeekV2/main.cpp)  
 [Student Exams in 3D Array](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/Arrays/Exams02/main.cpp)  
+
+## Other Data Types
+[Struct Example ContactType](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/ContactType/main.cpp)  
