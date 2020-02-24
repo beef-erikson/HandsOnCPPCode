@@ -5,7 +5,7 @@ using namespace std;
 
 // Struct example of creating a student record.
 int main() {
-    // Struct for student info
+    // Struct for students
     struct StudentType {
         char name[31]{};
         char gender{};
@@ -28,11 +28,11 @@ int main() {
     };
 
     // Displays name, age, gender and grades for each student.
-    for (int i{0}; i < 3; i++) {
-        cout << setw(20) << student[i].name << " " << student[i].gender << " "
-             << student[i].age << endl;
-        for (int j{0}; j < 5; j++)
-            cout << setw(3) << student[i].grade[j] << " ";
+    for (StudentType v : student) {
+        cout << setw(20) << v.name << " " << v.gender << " "
+             << v.age << endl;
+        for (int exam : v.grade)
+            cout << setw(3) << exam << " ";
         cout << endl;
     }
 
