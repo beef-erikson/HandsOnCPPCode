@@ -10,6 +10,6 @@ int main() {
     v = ~v;
     cout << "Signed value: " << v << endl;
     cout << "Unsigned value: " << static_cast<unsigned short int>(v) << endl;
-    
+
     return 0;
 }
