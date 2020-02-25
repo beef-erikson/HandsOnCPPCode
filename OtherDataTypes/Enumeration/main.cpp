@@ -21,4 +21,5 @@ int main() {
     )
         cout << "It's the weekend!" << endl;
 
+    return 0;
 }
