@@ -72,4 +72,4 @@ Code from the book Hands On C++
 [Enumeration Using Days of the Week](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Enumeration/main.cpp)  
 [Uses Inverse of Bits and Displays](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/BitInverse/main.cpp)  
 [Uses Bit Shifting to Determine Bit Value and Multiplication](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/ShiftLeft/main.cpp)  
-
+[Randomly Generates 6 Subjects for 20 Students Using Bitwise](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Students/main.cpp)  
