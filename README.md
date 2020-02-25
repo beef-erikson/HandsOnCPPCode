@@ -69,3 +69,5 @@ Code from the book Hands On C++
 [Struct Example Using Students With Their Info](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Records/main.cpp)  
 [Struct Example of Game Scores](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/GameScores/main.cpp)  
 [Enumeration Example Using Seasons](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/SeasonsType/main.cpp)  
+[Enumeration Using Days of the Week](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Enumeration/main.cpp)  
+
