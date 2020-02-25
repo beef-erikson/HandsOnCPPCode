@@ -10,6 +10,6 @@ int main() {
         Summer,
         Fall
     };
-    
+
     return 0;
 }
