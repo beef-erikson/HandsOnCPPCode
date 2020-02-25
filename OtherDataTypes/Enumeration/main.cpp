@@ -17,8 +17,7 @@ int main() {
     day = static_cast<DaysType>((static_cast<int>(day) + 1) % 7);
     cout << DaysOfTheWeek[static_cast<int>(day)] << endl;
 
-    if (day == DaysType::Saturday || day == DaysType::Sunday
-    )
+    if (day == DaysType::Saturday || day == DaysType::Sunday)
         cout << "It's the weekend!" << endl;
 
     return 0;
