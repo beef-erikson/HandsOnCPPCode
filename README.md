@@ -70,4 +70,4 @@ Code from the book Hands On C++
 [Struct Example of Game Scores](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/GameScores/main.cpp)  
 [Enumeration Example Using Seasons](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/SeasonsType/main.cpp)  
 [Enumeration Using Days of the Week](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Enumeration/main.cpp)  
-
+[Uses Inverse of Bits and Displays](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/BitInverse/main.cpp)  

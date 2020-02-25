@@ -1,0 +1,3 @@
+"C:\Users\Beef Erikson Studios\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\BitInverse.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\BitInverse.dir/objects.a @CMakeFiles\BitInverse.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\BitInverse.dir/objects.a -Wl,--no-whole-archive  -o BitInverse.exe -Wl,--out-implib,libBitInverse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BitInverse.dir\linklibs.rsp
