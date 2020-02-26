@@ -74,3 +74,4 @@ Code from the book Hands On C++
 [Uses Bit Shifting to Determine Bit Value and Multiplication](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/ShiftLeft/main.cpp)  
 [Randomly Generates 6 Subjects for 20 Students Using Bitwise](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Students/main.cpp)  
 [Sloppy Encryption and Decryption Using Bitwise](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Encrypted/main.cpp)  
+[Uses Union to Display Each Byte's Value](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestUnion/main.cpp)  
