@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/OtherDataTypes/Encrypted/main.cpp
+iostream
+-
+cstring
+-
+
