@@ -77,3 +77,4 @@ Code from the book Hands On C++
 [Uses Union to Display Each Byte's Value](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestUnion/main.cpp)  
 [Union Test on Parts of the Float Field](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestUnionBits/main.cpp)  
 [Example Using Type Aliases on a Boolean](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TypeAlias/main.cpp)  
+[Testing Pair and Tuple](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestPairAndTuple/main.cpp)  
