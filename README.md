@@ -76,3 +76,4 @@ Code from the book Hands On C++
 [Sloppy Encryption and Decryption Using Bitwise](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/Encrypted/main.cpp)  
 [Uses Union to Display Each Byte's Value](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestUnion/main.cpp)  
 [Union Test on Parts of the Float Field](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestUnionBits/main.cpp)  
+[Example Using Type Aliases on a Boolean](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TypeAlias/main.cpp)  
