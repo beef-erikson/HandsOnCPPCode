@@ -59,15 +59,15 @@ include CMakeFiles/TestPairAndTuple.dir/flags.make
 CMakeFiles/TestPairAndTuple.dir/main.cpp.obj: CMakeFiles/TestPairAndTuple.dir/flags.make
 CMakeFiles/TestPairAndTuple.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TestPairAndTuple.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TestPairAndTuple.dir\main.cpp.obj -c "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\main.cpp"
+	C:\mingw-w64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TestPairAndTuple.dir\main.cpp.obj -c "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\main.cpp"
 
 CMakeFiles/TestPairAndTuple.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestPairAndTuple.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\main.cpp" > CMakeFiles\TestPairAndTuple.dir\main.cpp.i
+	C:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\main.cpp" > CMakeFiles\TestPairAndTuple.dir\main.cpp.i
 
 CMakeFiles/TestPairAndTuple.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestPairAndTuple.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\main.cpp" -o CMakeFiles\TestPairAndTuple.dir\main.cpp.s
+	C:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Beef Erikson Studios\source\repos\C++\HandsOnC++\OtherDataTypes\TestPairAndTuple\main.cpp" -o CMakeFiles\TestPairAndTuple.dir\main.cpp.s
 
 # Object files for target TestPairAndTuple
 TestPairAndTuple_OBJECTS = \
