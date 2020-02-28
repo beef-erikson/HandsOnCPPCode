@@ -1,3 +1,3 @@
 "C:\Users\Beef Erikson Studios\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TestPairAndTuple.dir/objects.a
-C:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\TestPairAndTuple.dir/objects.a @CMakeFiles\TestPairAndTuple.dir\objects1.rsp
-C:\mingw-w64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TestPairAndTuple.dir/objects.a -Wl,--no-whole-archive  -o TestPairAndTuple.exe -Wl,--out-implib,libTestPairAndTuple.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestPairAndTuple.dir\linklibs.rsp
+C:\MinGW\bin\ar.exe cr CMakeFiles\TestPairAndTuple.dir/objects.a @CMakeFiles\TestPairAndTuple.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TestPairAndTuple.dir/objects.a -Wl,--no-whole-archive  -o TestPairAndTuple.exe -Wl,--out-implib,libTestPairAndTuple.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestPairAndTuple.dir\linklibs.rsp

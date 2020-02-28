@@ -91,5 +91,21 @@ int main() {
     // Note that the double is not from the tuple here
     cout << endl << "double value after the tie: " << dnum;
 
+    // Using structured binding on the above variables.
+    // Note that variables don't need to be declared in advance.
+    auto [v1, v2, v3] = tnum2;
+    cout << endl << "v1: " << v1 << "    v2: " << v2 << "    v3: " << v3 << endl;
+
+    // To actually change the values, we reference it
+    auto &[r1, r2, r3] = tnum2;
+    cout << endl << "Number before referencing: " << get<0>(tnum2) << endl;
+    r1 = 40;
+    cout << "Number after referencing: " << get<0>(tnum2) << endl;
+
+    // Another good use of referencing is for naming complex structures
+    int points[4][3] = { {1, 2, 3}, {4, 5, 6}, {7, 8, 9}, {10, 11, 12}};
+    for (auto [a, b, c] : points)
+        cout << a << " " << b << " " << c << endl;
+
     return 0;
 }

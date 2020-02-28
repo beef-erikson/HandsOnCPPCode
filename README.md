@@ -78,3 +78,6 @@ Code from the book Hands On C++
 [Union Test on Parts of the Float Field](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestUnionBits/main.cpp)  
 [Example Using Type Aliases on a Boolean](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TypeAlias/main.cpp)  
 [Pair and Tuple Examples](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/OtherDataTypes/TestPairAndTuple/main.cpp)  
+
+## Pointers and References
+[Address of Variable](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/AddressOf/main.cpp)  
