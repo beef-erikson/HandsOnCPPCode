@@ -1,0 +1,3 @@
+"C:\Users\Beef Erikson Studios\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ConstantPointers.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ConstantPointers.dir/objects.a @CMakeFiles\ConstantPointers.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ConstantPointers.dir/objects.a -Wl,--no-whole-archive  -o ConstantPointers.exe -Wl,--out-implib,libConstantPointers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ConstantPointers.dir\linklibs.rsp
