@@ -7,7 +7,7 @@ int main() {
     // Defines pointer and allocates space
     int *iptr {new int(20)};
     cout << *iptr << endl;
-    
+
     // Stores value in allocated space
     *iptr = 12;
 
