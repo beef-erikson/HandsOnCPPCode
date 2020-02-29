@@ -17,5 +17,8 @@ int main() {
 
     printf("%d/%d/%d", dtptr->month, dtptr->day, dtptr->year);
 
+    delete dtptr;
+    dtptr = nullptr;
+    
     return 0;
 }
