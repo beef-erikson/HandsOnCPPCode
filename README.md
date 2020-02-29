@@ -83,3 +83,4 @@ Code from the book Hands On C++
 [Address of Variable](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/AddressOf/main.cpp)  
 [Smaller Value Using Pointers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/PointerSmallerValue/main.cpp)  
 [Using Constants With Pointers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/ConstantPointers/main.cpp)  
+[Pointer to a Pointer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/UsingPointers/main.cpp)  
