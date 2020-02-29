@@ -86,3 +86,4 @@ Code from the book Hands On C++
 [Pointer to a Pointer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/UsingPointers/main.cpp)  
 [Array Pointers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/ArrayPointers/main.cpp)  
 [Struct Pointer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/StructPointer/main.cpp)  
+[Dynamic Memory Allocation](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/DynamicSpace/main.cpp)  

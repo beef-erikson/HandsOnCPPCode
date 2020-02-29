@@ -1,0 +1,3 @@
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/PointersAndReferences/DynamicSpace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/PointersAndReferences/DynamicSpace/cmake-build-debug/CMakeFiles/DynamicSpace.dir
+C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/PointersAndReferences/DynamicSpace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
