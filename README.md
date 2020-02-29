@@ -85,3 +85,4 @@ Code from the book Hands On C++
 [Using Constants With Pointers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/ConstantPointers/main.cpp)  
 [Pointer to a Pointer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/UsingPointers/main.cpp)  
 [Array Pointers](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/ArrayPointers/main.cpp)  
+[Struct Pointer](https://github.com/beef-erikson/HandsOnCPPCode/blob/master/PointersAndReferences/ArrayPointers/main.cpp)  
