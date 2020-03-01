@@ -1,0 +1,3 @@
+/home/beef/Desktop/CLionProjects/HandsOnCPPCode/DynamicBlock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/beef/Desktop/CLionProjects/HandsOnCPPCode/DynamicBlock/cmake-build-debug/CMakeFiles/DynamicBlock.dir
+/home/beef/Desktop/CLionProjects/HandsOnCPPCode/DynamicBlock/cmake-build-debug/CMakeFiles/edit_cache.dir

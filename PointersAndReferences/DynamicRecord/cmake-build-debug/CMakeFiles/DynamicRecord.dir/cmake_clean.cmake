@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DynamicRecord.dir/main.cpp.obj"
-  "DynamicRecord.exe"
-  "DynamicRecord.exe.manifest"
+  "CMakeFiles/DynamicRecord.dir/main.cpp.o"
+  "DynamicRecord"
   "DynamicRecord.pdb"
-  "libDynamicRecord.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

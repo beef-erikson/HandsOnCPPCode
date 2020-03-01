@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "AddressOf.exe"
-  "AddressOf.exe.manifest"
+  "AddressOf"
   "AddressOf.pdb"
-  "CMakeFiles/AddressOf.dir/main.cpp.obj"
-  "libAddressOf.dll.a"
+  "CMakeFiles/AddressOf.dir/main.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

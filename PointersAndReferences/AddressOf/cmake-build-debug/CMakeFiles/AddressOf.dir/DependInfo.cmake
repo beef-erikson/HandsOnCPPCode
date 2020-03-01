@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/PointersAndReferences/AddressOf/main.cpp" "C:/Users/Beef Erikson Studios/source/repos/C++/HandsOnC++/PointersAndReferences/AddressOf/cmake-build-debug/CMakeFiles/AddressOf.dir/main.cpp.obj"
+  "/home/beef/Desktop/CLionProjects/HandsOnCPPCode/PointersAndReferences/AddressOf/main.cpp" "/home/beef/Desktop/CLionProjects/HandsOnCPPCode/PointersAndReferences/AddressOf/cmake-build-debug/CMakeFiles/AddressOf.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
