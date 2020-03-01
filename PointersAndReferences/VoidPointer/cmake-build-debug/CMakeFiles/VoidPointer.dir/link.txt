@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/VoidPointer.dir/main.cpp.o  -o VoidPointer 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DynamicBlock" targetName="DynamicBlock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afe892f4-ddd4-4a23-9e06-8b5623a504f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="RDSQOrlw" />
+  </component>
+  <component name="ProjectId" id="1YXuKFAJHMN3FHC1SpKJCOVVrTM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DynamicBlock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynamicBlock" TARGET_NAME="DynamicBlock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynamicBlock" RUN_TARGET_NAME="DynamicBlock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe892f4-ddd4-4a23-9e06-8b5623a504f7" name="Default Changelist" comment="" />
+      <created>1583101194253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583101194253</updated>
+      <workItem from="1583101196650" duration="2151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="244" width="424" height="509" key="FileChooserDialogImpl" timestamp="1583105256722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="244" width="424" height="509" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583105256722" />
+    <state width="1358" height="239" key="GridCell.Tab.0.bottom" timestamp="1583105264771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1358" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583105264771" />
+    <state width="1358" height="239" key="GridCell.Tab.0.center" timestamp="1583105264769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1358" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583105264769" />
+    <state width="1358" height="239" key="GridCell.Tab.0.left" timestamp="1583105264768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1358" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583105264768" />
+    <state width="1358" height="239" key="GridCell.Tab.0.right" timestamp="1583105264770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1358" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583105264770" />
+  </component>
+</project>
