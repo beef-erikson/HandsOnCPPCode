@@ -24,7 +24,7 @@ int main() {
          static_cast<DateType *>(ptr)->day << "/" <<
          static_cast<DateType *>(ptr)->year << endl;
 
-    delete static_cast<DateType*>(ptr);
+    delete static_cast<DateType *>(ptr);
     ptr = nullptr;
 
     return 0;
